@@ -1,5 +1,5 @@
 // KONFIGURASI
-const TM_MODEL_URL = "./my-model/";
+const TM_MODEL_URL = "./ai-portfolio/";
 // API key Gemini dari aistudio.google.com
 // INGAT: key ini terlihat publik di GitHub
 const GEMINI_KEY = "Aq......"; // ganti dengan key kamu
